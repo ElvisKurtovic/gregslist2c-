@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "AojBOJ3sLHn/rJRzNH5o3rKrhawHRbUJWPyy2/97Lbu5VZO6Jf6BoIoDuBNj/O6BjUekQqGpQFW2zWbHN5ouIw==",
+  "success": true,
+  "projectFilePath": "/Users/elviskurtovic/source/codeworks/dotnet1/gregslist2/gregslist2.csproj",
+  "expectedPackageFiles": [
+    "/Users/elviskurtovic/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/elviskurtovic/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/elviskurtovic/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/elviskurtovic/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/elviskurtovic/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/elviskurtovic/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
